@@ -1,4 +1,4 @@
-Region Layout Example
+Multi Region Presenter
 ============
 
 This demonstrates how to define multiple regions on the screen and dynamically fill the regions with different layouts at runtime.
